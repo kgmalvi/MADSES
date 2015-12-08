@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MADSES</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="newUser"><u>Dont Have An Account? Sign up!</u></string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="retypepass">Retype Password</string>
+    <string name="dob">DOB</string>
+    <string name="address1">House No., Building Name</string>
+    <string name="address2">Street Name, Area</string>
+    <string name="area">Area</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="bloodgroup">Blood Group</string>
+    <string name="contact">Contact Number</string>
+    <string name="vechiclename">Vechicle Name</string>
+    <string name="fueltype">Fuel Type</string>
+    <string name="mileage">Mileage</string>
+    <string name="next">Next</string>
+    <string name="signup">Sign up</string>
+
+</resources>
